@@ -1,5 +1,3 @@
-# lock-wood colour scheme
-
 <p align="center">
   <img src="../assets/lock-wood.png" width="256" alt="logo">
 </p>
